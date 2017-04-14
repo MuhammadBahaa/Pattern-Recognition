@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1450462962 source:c:\users\muhammad bahaa\downloads\codeblocks\pattern recognition\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1227371594 c:\users\muhammad bahaa\downloads\codeblocks\pattern recognition\utility.h
+	<iostream>
+
+1233206462 c:\users\muhammad bahaa\downloads\codeblocks\pattern recognition\hopfield.h
+	"Matrix.h"
+	"Utility.h"
+
+1233207830 c:\users\muhammad bahaa\downloads\codeblocks\pattern recognition\matrix.h
+	<stdexcept>
+	<iostream>
+	"Matrix.cpp"
+
+1450378212 c:\users\muhammad bahaa\downloads\codeblocks\pattern recognition\matrix.cpp
+	<cmath>
+	<iomanip>
+
+1233207216 source:c:\users\muhammad bahaa\downloads\codeblocks\pattern recognition\hopfield.cpp
+	"Hopfield.h"
+
